@@ -1,0 +1,8 @@
+Big O
+    - O(n)                                                      (propotional - sum)
+    - O(n^2) (most uneficient)                                  (loop in loop)
+    - O(log n) ( how many time it takes to devide a list by 2)  (divide and conquer)
+    - O(1) (most efficient)                                     (constant)
+    - O(n logn) (some sorting algorithm)                        ()
+    
+    Link: https://www.bigocheatsheet.com/
